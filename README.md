@@ -13,3 +13,7 @@ Main branch should always be stable. To develop code create a branch and use tha
 - Module constants should be all uppercase.
 
 - E.g. You would typically have module.ClassName.method_name.
+
+# Links:
+
+- [A* blog](https://medium.com/@nicholas.w.swift/easy-a-star-pathfinding-7e6689c7f7b2?fbclid=IwAR1yU5D-pOt6TapRS3qd17hRuXMqSgyrA2ky2fcojyHB-BqCdL_rwK2_paI)
